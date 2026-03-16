@@ -1,0 +1,259 @@
+[
+  {
+    "id": "1",
+    "title": "Guardians of the Galaxy",
+    "description": "A group of intergalactic criminals are forced to work together to stop a fanatical warrior with plans to cleanse the universe.",
+    "production_company": "Marvel Studios",
+    "genre": [
+      "Adventure",
+      "Action",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "language": [
+      "English",
+      "Tamil"
+    ],
+    "duration": 121,
+    "release_date": "2014-08-01",
+    "rating": 8,
+    "asset": "/hero-1.jpg",
+    "assets": "/hero-banner.jpg",
+    "cast_members": [
+      {
+        "name": "Chris Pratt",
+        "role": "Star-Lord"
+      },
+      {
+        "name": "Zoe Saldaña",
+        "role": "Gamora"
+      }
+    ],
+    "is_now_showing": true,
+    "trailer_url": "https://www.youtube.com/watch?v=d96cjJhvlMA&t=1s"
+  },
+  {
+    "id": "2",
+    "title": "Avengers: Endgame",
+    "description": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+    "production_company": "Marvel Studios",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Epic"
+    ],
+    "language": [
+      "English",
+      "Tamil"
+    ],
+    "duration": 149,
+    "release_date": "2019-04-26",
+    "rating": 8.4,
+    "asset": "/img01.jpg",
+    "assets": "/movie1.jpg",
+    "cast_members": [
+      {
+        "name": "Robert Downey Jr.",
+        "role": "Tony Stark"
+      },
+      {
+        "name": "Chris Hemsworth",
+        "role": "Thor"
+      }
+    ],
+    "is_now_showing": true,
+    "trailer_url": "https://www.youtube.com/watch?v=TcMBFSGVi1c&t=1s"
+  },
+  {
+    "id": "3",
+    "title": "Spider-Man: No Way Home",
+    "description": "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear.",
+    "production_company": "Marvel Studios",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "language": [
+      "English , Tamil"
+    ],
+    "duration": 148,
+    "release_date": "2021-12-15",
+    "rating": 8.1,
+    "asset": "/img02.jpg",
+    "assets": "/movie2.jpg",
+    "cast_members": [
+      {
+        "name": "Tom Holland",
+        "role": "Peter Parker"
+      },
+      {
+        "name": "Zendaya",
+        "role": "MJ"
+      }
+    ],
+    "is_now_showing": false,
+    "is_coming_soon": true,
+    "trailer_url": "https://www.youtube.com/watch?v=JfVOs4VSpmA&t=1s"
+  },
+  {
+    "id": "4",
+    "title": "Thor: Love and Thunder",
+    "description": "Thor enlists the help of Valkyrie, Korg and ex-girlfriend Jane Foster to fight Gorr the God Butcher, who intends to make the gods extinct.",
+    "production_company": "Marvel Studios",
+    "genre": [
+      "Action",
+      "Adventure",
+      "superhero"
+    ],
+    "language": [
+      "English"
+    ],
+    "duration": 149,
+    "release_date": "2022-04-27",
+    "rating": 6.1,
+    "asset": "/img03.jpg",
+    "assets": "/movie3.jpg",
+    "cast_members": [
+      {
+        "name": "Chris Hemsworth",
+        "role": "Thor"
+      },
+      {
+        "name": "Natalie Portman",
+        "role": "Mighty Thor"
+      }
+    ],
+    "is_now_showing": true,
+    "trailer_url": "https://www.youtube.com/watch?v=Go8nTmfrQd8&t=1s"
+  },
+  {
+    "id": "5",
+    "title": "Black Panther",
+    "description": "The people of Wakanda fight to protect their home from intervening world powers as they mourn the death of King T'Challa.",
+    "production_company": "Marvel Studios",
+    "genre": [
+      "superhero",
+      "Adventure",
+      "Drama",
+      "Tragedy"
+    ],
+    "language": [
+      "English"
+    ],
+    "duration": 143,
+    "release_date": "2018-01-29",
+    "rating": 6.6,
+    "asset": "/img04.jpg",
+    "assets": "/movie4.jpg",
+    "cast_members": [
+      {
+        "name": "Chadwick Boseman",
+        "role": "Black Panther"
+      },
+      {
+        "name": "Lupita Nyongo'o",
+        "role": "Nakia"
+      }
+    ],
+    "is_now_showing": true,
+    "trailer_url": "https://www.youtube.com/watch?v=_Z3QKkl1WyM&t=1s"
+  },
+  {
+    "id": "6",
+    "title": "Doctor Strange: Multiverse of Madness",
+    "description": "Doctor Strange teams up with a mysterious teenage girl who can travel across multiverses, to battle other-universe versions of himself which threaten to wipe out the multiverse.",
+    "production_company": "Marvel Studios",
+    "genre": [
+      "Adventure",
+      "Action",
+      "Dark FANTASY"
+    ],
+    "language": [
+      "English",
+      "Tamil"
+    ],
+    "duration": 126,
+    "release_date": "2022-05-02",
+    "rating": 8,
+    "asset": "/img05.jpg",
+    "assets": "/movie5.jpg",
+    "cast_members": [
+      {
+        "name": "Benedict Cumberbatch",
+        "role": "Doctor Strange"
+      },
+      {
+        "name": "Elizabeth",
+        "role": "Wanda Maximoff"
+      }
+    ],
+    "is_now_showing": true,
+    "trailer_url": "https://www.youtube.com/watch?v=aWzlQ2N6qqg&t=1s"
+  },
+  {
+    "id": "7",
+    "title": "Ant-Man",
+    "description": "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds are released.",
+    "production_company": "Marvel Studios",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "language": [
+      "English",
+      "Tamil"
+    ],
+    "duration": 121,
+    "release_date": "2015-12-17",
+    "rating": 7.2,
+    "asset": "/img06.jpg",
+    "assets": "/movie6.jpg",
+    "cast_members": [
+      {
+        "name": "Paul Rudd",
+        "role": "Ant-Man"
+      },
+      {
+        "name": "Judy Greer",
+        "role": "Maggie Lang"
+      }
+    ],
+    "is_now_showing": false,
+    "is_coming_soon": true,
+    "trailer_url": "https://www.youtube.com/watch?v=pWdKf3MneyI&t=1s"
+  },
+  {
+    "id": "8",
+    "title": "Captain America: The First Avenger",
+    "description": "Steve Rogers, a rejected military soldier, transforms into Captain America after taking a dose of a Super-Soldier serum.",
+    "production_company": "Marvel Studios",
+    "genre": [
+      "Action",
+      "Crime",
+      "One-Person Army Action"
+    ],
+    "language": [
+      "English"
+    ],
+    "duration": 144,
+    "release_date": "2011-07-18",
+    "rating": 6.9,
+    "asset": "/img07.jpg",
+    "assets": "/movie7.jpg",
+    "cast_members": [
+      {
+        "name": "Chris Evans",
+        "role": "Captain America"
+      },
+      {
+        "name": "Hayley Atwell",
+        "role": "pegger Carter"
+      }
+    ],
+    "is_now_showing": true,
+    "is_coming_soon": false,
+    "trailer_url": "https://www.youtube.com/watch?v=6j2IJlC6gic&t=1s"
+  }
+]
