@@ -10,7 +10,7 @@ There are several ways of editing your application.
 
 **Uses**
 
-Simply visit the [Project](https://vkcodez.web.app) and start prompting.
+Simply visit the [Project](https://vkcodez.web.app) and Happy to use experience.
 
 Changes made will be committed automatically to this repo.
 
